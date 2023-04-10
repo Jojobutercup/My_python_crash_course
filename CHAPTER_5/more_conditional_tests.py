@@ -7,8 +7,8 @@ house = 'duplex'
 print(house != 'penthouse')
 
 #lets test if a name in upper case will be equal to the same name in lower case
-car = 'top'
-print(car == 'Top')
+car = 'Top'
+print(car.lower() == 'Top')
 
 #lets test a number using equality
 age = 9
