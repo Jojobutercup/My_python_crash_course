@@ -5,4 +5,11 @@ if 'green' in alien_color:
 else:
     print("10 coins added to cart")
 
+#Write one version of this program that runs the if block and another thatruns the else block.
+
+if 'blue' in alien_color:
+    print("5 coins added to cart")
+else:
+    print("10 coins added to cart")
+
 print("coins added to you cart!")
